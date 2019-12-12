@@ -1,4 +1,4 @@
-FROM debian:9-slim
+FROM debian:10-slim
 
 MAINTAINER Masaharu TASHIRO <masatsr.kit@gmail.com>
 
